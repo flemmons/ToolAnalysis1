@@ -1,0 +1,6 @@
+verbosity 4
+
+OutputFile /Jingbo/LikelihoodFitterCheck1mu.root
+ifPlot2DFOM 1
+ShowEvent 0
+

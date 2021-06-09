@@ -1,5 +1,6 @@
 #ignore gedit backup files:
 *~
+wcsim_files
 Analyse
 ToolDAQ
 *.o

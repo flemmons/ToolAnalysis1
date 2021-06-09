@@ -1,0 +1,4 @@
+verbosity 0
+
+OutputFile /Jingbo/VertexGeometryCheck1mu.root
+ShowEvent 0
