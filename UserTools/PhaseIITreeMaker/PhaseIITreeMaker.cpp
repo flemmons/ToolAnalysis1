@@ -283,7 +283,6 @@ bool PhaseIITreeMaker::Execute(){
   Log("===========================================================================================",v_debug,verbosity);
   Log("PhaseIITreeMaker Tool: Executing",v_debug,verbosity);
 
-
   // Reset variables
   this->ResetVariables();
   // Get a pointer to the ANNIEEvent Store

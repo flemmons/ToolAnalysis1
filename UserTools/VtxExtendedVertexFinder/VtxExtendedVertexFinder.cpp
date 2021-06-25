@@ -256,6 +256,8 @@ RecoVertex* VtxExtendedVertexFinder::FindSimpleDirection(RecoVertex* myVertex) {
   bool pass = 0; 
   double fom = 0.0;
 
+  cout << "SW: " << Sw;
+
   if( Sw>0.0 ){
     double qx = Swx/Sw;
     double qy = Swy/Sw;

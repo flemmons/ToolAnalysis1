@@ -1,6 +1,6 @@
-verbosity 4
+verbosity 5
 
-OutputFile /Jingbo/LikelihoodFitterCheck1mu.root
+OutputFile /annie/data/users/flemmons/PureMuonSim/TwentyMuonFid/LFCheck20allLAPPD14-6.root
 ifPlot2DFOM 1
-ShowEvent 0
+ShowEvent 14
 

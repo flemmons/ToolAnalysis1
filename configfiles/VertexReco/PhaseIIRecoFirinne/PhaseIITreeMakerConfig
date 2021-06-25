@@ -1,4 +1,4 @@
-verbose 3
+verbose 5
 
 RecoDebug_fill 1
 TankReco_fill 1
@@ -7,6 +7,6 @@ muonTruthRecoDiff_fill 1
 pionKaonCount_fill 1
 HitInfo_fill 1
 
-OutputFile /Jingbo/RecoOutput-final.root
+OutputFile /annie/data/users/flemmons/PureMuonSim/TwentyMuonFid/RecoOutput20-allLAPPD-5.root
 NumEventsWritten 2000
 

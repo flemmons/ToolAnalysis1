@@ -1,4 +1,4 @@
-verbosity 0
+verbosity 5
 
-OutputFile /Jingbo/VertexGeometryCheck1mu.root
-ShowEvent 0
+OutputFile /annie/data/users/flemmons/PureMuonSim/TwentyMuonFid/VGCheck20allLAPPD14-5.root
+ShowEvent 14

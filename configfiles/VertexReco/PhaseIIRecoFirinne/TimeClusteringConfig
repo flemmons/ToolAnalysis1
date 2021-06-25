@@ -1,6 +1,6 @@
 #TimeClustering Configuration
 
-verbosity 4
+verbosity 5
 MinDigitsForTrack 4             # minimum MRD paddles to constitute a cluster
 MaxMrdSubEventDuration 30       # maximum subevent duration only important if we only had 1 subevent
 MinSubeventTimeSep 30           # minimum time separation between clusters
