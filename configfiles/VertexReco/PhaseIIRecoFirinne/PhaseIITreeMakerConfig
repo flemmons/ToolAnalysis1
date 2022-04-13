@@ -7,6 +7,6 @@ muonTruthRecoDiff_fill 1
 pionKaonCount_fill 1
 HitInfo_fill 1
 
-OutputFile /annie/data/users/flemmons/PureMuonSim/TwentyMuonFid/RecoOutput20-allLAPPD-5.root
+OutputFile /Data/PureMuonHigh/VtxRecoTree-1000high-dirgrid200.root
 NumEventsWritten 2000
 

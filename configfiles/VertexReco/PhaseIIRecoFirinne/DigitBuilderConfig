@@ -7,4 +7,4 @@ IsMC 1
 # There are three configurations: "PMT_only", "LAPPD_only", "All"
 PhotoDetectorConfiguration All 
 #File must be in /pnfs/ space when loading on Fermilab cluster
-#LAPPDIDFile ./configfiles/VertexReco/PhaseIIRecoFirinne/LAPPDIDs.txt
+LAPPDIDFile ./configfiles/VertexReco/PhaseIIRecoFirinne/LAPPDIDs.txt

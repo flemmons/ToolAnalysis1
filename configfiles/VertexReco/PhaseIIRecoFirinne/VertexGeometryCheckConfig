@@ -1,4 +1,4 @@
 verbosity 5
 
-OutputFile /annie/data/users/flemmons/PureMuonSim/TwentyMuonFid/VGCheck20allLAPPD14-5.root
-ShowEvent 14
+OutputFile /Data/VGCheck1000high93.root
+ShowEvent 93

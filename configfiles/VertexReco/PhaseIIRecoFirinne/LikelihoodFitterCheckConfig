@@ -1,6 +1,6 @@
 verbosity 5
 
-OutputFile /annie/data/users/flemmons/PureMuonSim/TwentyMuonFid/LFCheck20allLAPPD14-6.root
+OutputFile /Data/LFCheck1000high93.root
 ifPlot2DFOM 1
-ShowEvent 14
+ShowEvent 93
 
